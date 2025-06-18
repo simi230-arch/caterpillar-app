@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: peachpuff; /* soft peach tone */
+  }
+  
+  canvas {
+    display: block;
+  }
+  
